@@ -2,6 +2,8 @@
 
 A program that generates two matrices filled with random integers and will multiply them together.
 
+The Application file will test different methods of multiplying the matrices. Three sequential and three using threads. 
+
 ### How to run:
 
 Compile with:
